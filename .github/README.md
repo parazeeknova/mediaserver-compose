@@ -17,10 +17,12 @@ All services are combined into a single Coolify environment, featuring a Docker 
 ###### _<div align="left"><sub>// Preview</sub></div>_
 
 <div align="center">
+  
   <a href="https://github.com/parazeeknova/mediaserver-compose">
     <img src="./assets/jellyfin.png" alt="Jellyfin" width="95%">
   </a>
-<div>
+  
+</div>
 
 #### _<div align="left"><sub>// Services Overview</sub></div>_
 
